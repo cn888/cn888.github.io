@@ -5,14 +5,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown
-
-# Header 1
-## Header 2
-### Header5746846846544444444444444444dewfewufheruivgberiuvbrev
-
-- Bulleted
-- List
+Markdown                             
 
 1. Numbered
 2. List
